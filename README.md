@@ -8,10 +8,15 @@ https://www.kaggle.com/snapcrack/all-the-news
 
 #### Skills Demostrated
 -TensorFlow and Keras
+
 -Understanding Neural Network Fundamentals and structures
+
 -Underestanding Natural Language processing fundamentals
+
 -Using Text Encoding with Dummies
+
 -Using Text encoding with Google's Universal Sentence Encoder
+
 -Data augmentation
 
 
